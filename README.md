@@ -1,8 +1,11 @@
 # Console funsies with Docker!
 The Docker image you have all been waiting for. 
 
-### How do I get it?
-``docker pull obitech/console-fun``
+### How?
+```
+$ docker pull obitech/console-fun:latest
+$ docker run -it --rm --name console-fun obitech/console-fun:latest bash
+```
 
 or build it yourself!
 
