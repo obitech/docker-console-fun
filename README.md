@@ -37,3 +37,5 @@ or build it yourself!
 ![gif of asciiquarium](https://github.com/obitech/docker-console-fun/blob/master/assets/asciiquarium.gif)
 
 ### Use Python to make some fun outputs!
+
+![gif of python script](https://github.com/obitech/docker-console-fun/blob/master/assets/fun.gif)
